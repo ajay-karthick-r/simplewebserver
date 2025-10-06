@@ -1,5 +1,5 @@
 # EX01 Developing a Simple Webserver
-## Date:
+## Date:06/10/25
 
 ## AIM:
 To develop a simple webserver to serve html pages and display the Device Specifications of your Laptop.
@@ -37,9 +37,47 @@ Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 
 ## PROGRAM:
 
+<body>
+    <table>
+        <caption>Top 5 Revenue Generating Software Companies</caption>
+        <tr>
+            <th>s.no</th>
+            <th>companies</th>
+            <th>revenue</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>Microsoft</td>
+            <td>65 billion</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Oracle</td>
+            <td>29.6 billion</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>IBM</td>
+            <td>29.1 billion</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>SAP</td>
+            <td>6.4 billion</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>Symantec</td>
+            <td>5.6 billion</td>
+        </tr>
+    </table>
+</body>
+</html>
+
 
 ## OUTPUT:
 
+<img width="277" height="255" alt="Screenshot 2025-09-30 161525" src="https://github.com/user-attachments/assets/5511884f-a18e-42ab-8d4a-728ae0ff0deb" />
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
